@@ -1,0 +1,16 @@
+{
+  "name": "tp4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "scripts": {
+    "start":"nodemon ex1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.14"
+  }
+}
